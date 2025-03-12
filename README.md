@@ -9,7 +9,7 @@
 ## 📜 **Project Overview**
 
 Welcome to **Sentiment Analysis of Transliterated Social Media Comments**! This project dives into analyzing the sentiment of social media comments, specifically from **YouTube** and **Twitter** (X), using **Natural Language Processing (NLP)** techniques. The goal is to assess the overall mood (positive, negative, or neutral) of user comments on various platforms and provide insightful analysis for content creators and marketers.
-
+Check out the project here - [Project URL](https://github.com/S-M-Creations/SentimentAnalysis-of-Transliterated-SocialMedia-Comments/tree/main)
 ---
 
 ## 🚀 **How It Works**
